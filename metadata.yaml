@@ -1,0 +1,67 @@
+_repo: The-British-battle-fleet-Vol-2-of-2-b-its-inception-and-growth-throughout-the-centuries-to-th__75617
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wyllie, W. L. (William Lionel)
+    alias: Wyllie, William Lionel
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '58069'
+    url: http://www.gutenberg.org/2009/agents/58069
+    wikipedia: https://en.wikipedia.org/wiki/William_Lionel_Wyllie
+creator:
+  author:
+    agent_name: Jane, Fred T. (Frederick Thomas)
+    alias: Jane, Frederick Thomas
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '35153'
+    url: http://www.gutenberg.org/2009/agents/35153
+    wikipedia: https://en.wikipedia.org/wiki/Fred_T._Jane
+description: 'Reading ease score: 65.3 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: History - British'
+- 'Browsing: History - Warfare'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75617'
+language: en
+pgterms:marc904: https://archive.org/details/britishbattlefle01jane
+pgterms:marc905: 20231125101017jane
+pgterms:marc906: '1915'
+pgterms:marc907: gb
+production_note: Peter Becker, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bThe Library Press, limited, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History, Naval'
+- !lcsh 'Great Britain. Royal Navy -- History'
+- !lcsh 'Warships -- Great Britain -- History'
+- !lcc 'DA'
+- GITenberg
+summary: '"The British Battle Fleet, Vol. 2: Its Inception and Growth Throughout the
+  Centuries to the Present Day" by Fred T. Jane is a historical account written in
+  the early 20th century. This volume serves as a comprehensive continuation of the
+  evolution of the British Navy, examining both the technical advancements in naval
+  architecture and the shifts in military strategy across different eras. The focus
+  of this volume lies on significant battleship classes and innovations, highlighting
+  individual ships and their contributions to naval warfare.  The opening of this
+  volume begins with an exploration of the "Barnaby Era," detailing the design philosophies
+  and battleship innovations led by Sir N. Barnaby in the late 19th century. It discusses
+  strategic principles advocating stronger offensive capabilities over defensive measures
+  in ship design, leading to a range of battleships like the "Inflexible" that sought
+  to blend power with protection. The narrative provides insights into the changing
+  nature of naval conflicts while setting the stage for subsequent developments in
+  British maritime history. As Jane outlines various classes and specific ships, it
+  becomes clear that this work is both a technical examination of these vessels and
+  a reflection on their historical significance in the context of British naval supremacy.
+  (This is an automatically generated summary.)'
+title: 'The British battle fleet, Vol. 2 (of 2) : $b its inception and growth throughout
+  the centuries to the present day'
+url: http://www.gutenberg.org/ebooks/75617
